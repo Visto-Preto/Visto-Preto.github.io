@@ -1,0 +1,62 @@
+Package: cde
+Version: 1.0.0
+Architecture: all
+Maintainer: @Visto-Preto
+Installed-Size: 200
+Depends: python, termux-api
+Homepage: https://visto-preto.github.io
+Description: Caixa de economias server, feito com flask
+Filename: dists/termux/extras/binary-all/cde_1.0.0_all.deb
+Size: 125352
+MD5Sum: ad30c181b77e85ed0517369649579c41
+SHA1: ec98cb84329360b746363fb8c745571d3a685e49
+SHA256: 5a2f47b776de6fd54f06c93869ed16a8a8f970062448c4de038d99faf4113ecb
+SHA512: f2e5d0f69cb7afd79238310370c5264b4a586f4da449b46b32b03f4cae0aa016a94372ac27fb6e49ab66408a64127be41cb19d81d03324cf4244f480fb73272d
+
+Package: ipcheck
+Version: 1.0.0
+Architecture: all
+Maintainer: @Visto-Preto
+Installed-Size: 200
+Depends: python, git, figlet, cowsay
+Homepage: https://visto-preto.github.io
+Description: Ip-Check App
+ feito com flask
+Filename: dists/termux/extras/binary-all/ipcheck_1.0.0_all.deb
+Size: 384524
+MD5Sum: e692deb8588101710c443b1c6dd23dd7
+SHA1: cfdffd2788662916231eeea445740a9590d8ade6
+SHA256: fd1321a7460cb5a729ad01e174d56a07f7b61e92657e38477feb9360f84670bd
+SHA512: bb07aa84cf64cef30b20214bf0acac0f2ae439ac1d547e92895414c01e5960bbc13308b39dc629db759117ddfdb358e58ad10a46361f0f15df4442a15be68f2e
+
+Package: telex
+Version: 1.0.0
+Architecture: all
+Maintainer: @Visto-Preto
+Installed-Size: 70
+Depends: python, figlet, git, termux-api
+Homepage: https://visto-preto.github.io
+Description: TeleX App
+Filename: dists/termux/extras/binary-all/telex_1.0.0_all.deb
+Size: 222900
+MD5Sum: 660348fb34cce86691bd756705f703bb
+SHA1: 94979bdb239b71dea02fe42c39e8a785489bac48
+SHA256: 7c2255bf63fd6c72b834a4f0f6faf4f3cb9308ae4c00f5a895c2859287e7d905
+SHA512: 7fbc80f3e45bb613947f0e1e04a7e9181de932da44a4a19be89c4a970ae5fb6f8adba5c403d2134cd1fa6dd727ccc03f3fd08ae46e337d62802dd5729fcfa766
+
+Package: ttf-meslolgs
+Version: 1.0.0
+Architecture: all
+Maintainer: @Visto-Preto
+Installed-Size: 6144
+Depends: 
+Homepage: https://visto-preto.github.io
+Description: Fonts MesloLGS
+ption: TeleX App
+Filename: dists/termux/extras/binary-all/ttf-meslolgs_1.0.0_all.deb
+Size: 929704
+MD5Sum: 5fe40556fe77dfc25469bb1cd92e5d4d
+SHA1: 62920b379221eacec3a1d061fb7e9b5da1ce5bc6
+SHA256: dfe7ac3e3b36bb41aacd8c858c68b795c6b8c51c5658d02cdd9a5971af934d87
+SHA512: 26cc51989aeabebb8dc55a88d62fe55a81d7e25d205e431bc43558674e943426d8d7f0ef22bfcaf39ff97cd22749fdfe1de1a6549d82dec2137c7790fc911b6e
+

@@ -1,0 +1,57 @@
+data/data/com.termux/files/usr/bin/cde                                           cde
+data/data/com.termux/files/usr/share/cde/App.py                                  cde
+data/data/com.termux/files/usr/share/cde/Procfile                                cde
+data/data/com.termux/files/usr/share/cde/README.md                               cde
+data/data/com.termux/files/usr/share/cde/cde                                     cde
+data/data/com.termux/files/usr/share/cde/gui.sh                                  cde
+data/data/com.termux/files/usr/share/cde/module/__pycache__/realsymbol.cpython-310.pyc cde
+data/data/com.termux/files/usr/share/cde/module/__pycache__/realsymbol.cpython-311.pyc cde
+data/data/com.termux/files/usr/share/cde/module/__pycache__/realsymbol.cpython-37.pyc cde
+data/data/com.termux/files/usr/share/cde/module/__pycache__/realsymbol.cpython-39.pyc cde
+data/data/com.termux/files/usr/share/cde/module/realsymbol.py                    cde
+data/data/com.termux/files/usr/share/cde/requirements.txt                        cde
+data/data/com.termux/files/usr/share/cde/settings/vp230.db                       cde
+data/data/com.termux/files/usr/share/cde/static/css/all.css                      cde
+data/data/com.termux/files/usr/share/cde/static/css/bootstrap.min.css            cde
+data/data/com.termux/files/usr/share/cde/static/imgs/favicon.ico                 cde
+data/data/com.termux/files/usr/share/cde/static/imgs/logo.png                    cde
+data/data/com.termux/files/usr/share/cde/static/js/bootstrap.bundle.min.js       cde
+data/data/com.termux/files/usr/share/cde/static/js/jquery.slim.min.js            cde
+data/data/com.termux/files/usr/share/cde/static/js/popper.min.js                 cde
+data/data/com.termux/files/usr/share/cde/templates/cadastro.html                 cde
+data/data/com.termux/files/usr/share/cde/templates/extratos.html                 cde
+data/data/com.termux/files/usr/share/cde/templates/index.html                    cde
+data/data/com.termux/files/usr/share/cde/templates/login.html                    cde
+data/data/com.termux/files/usr/share/cde/uninstall.sh                            cde
+data/data/com.termux/files/usr/bin/ipcheck                                       ipcheck
+data/data/com.termux/files/usr/share/ipcheck/README.md                           ipcheck
+data/data/com.termux/files/usr/share/ipcheck/img/linux.png                       ipcheck
+data/data/com.termux/files/usr/share/ipcheck/img/temux2.jpg                      ipcheck
+data/data/com.termux/files/usr/share/ipcheck/img/termux1.jpg                     ipcheck
+data/data/com.termux/files/usr/share/ipcheck/install.sh                          ipcheck
+data/data/com.termux/files/usr/share/ipcheck/ipcheck.sh                          ipcheck
+data/data/com.termux/files/usr/share/ipcheck/main.py                             ipcheck
+data/data/com.termux/files/usr/share/ipcheck/modules/__pycache__/hackertarget.cpython-37.pyc ipcheck
+data/data/com.termux/files/usr/share/ipcheck/modules/__pycache__/ipInfo.cpython-37.pyc ipcheck
+data/data/com.termux/files/usr/share/ipcheck/modules/__pycache__/rvrsip.cpython-37.pyc ipcheck
+data/data/com.termux/files/usr/share/ipcheck/modules/hackertarget.py             ipcheck
+data/data/com.termux/files/usr/share/ipcheck/modules/ipInfo.py                   ipcheck
+data/data/com.termux/files/usr/share/ipcheck/uninstall.sh                        ipcheck
+data/data/com.termux/files/usr/share/ipcheck/upgrade.sh                          ipcheck
+data/data/com.termux/files/usr/bin/telex                                         telex
+data/data/com.termux/files/usr/share/telex/README.md                             telex
+data/data/com.termux/files/usr/share/telex/channels.db                           telex
+data/data/com.termux/files/usr/share/telex/img/add.png                           telex
+data/data/com.termux/files/usr/share/telex/img/home.png                          telex
+data/data/com.termux/files/usr/share/telex/img/list.png                          telex
+data/data/com.termux/files/usr/share/telex/img/open.png                          telex
+data/data/com.termux/files/usr/share/telex/install.sh                            telex
+data/data/com.termux/files/usr/share/telex/main.py                               telex
+data/data/com.termux/files/usr/share/telex/push                                  telex
+data/data/com.termux/files/usr/share/telex/telex                                 telex
+data/data/com.termux/files/usr/share/telex/uninstall                             telex
+data/data/com.termux/files/usr/share/telex/upgrade                               telex
+data/data/com.termux/files/usr/share/fonts/TTF/MesloLGS NF Bold Italic.ttf       ttf-meslolgs
+data/data/com.termux/files/usr/share/fonts/TTF/MesloLGS NF Bold.ttf              ttf-meslolgs
+data/data/com.termux/files/usr/share/fonts/TTF/MesloLGS NF Italic.ttf            ttf-meslolgs
+data/data/com.termux/files/usr/share/fonts/TTF/MesloLGS NF Regular.ttf           ttf-meslolgs
