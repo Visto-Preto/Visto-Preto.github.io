@@ -1,0 +1,1 @@
+deb [trusted=yes arch=all] file:/data/data/com.termux/files/home/Apt-Repo/ termux extras
