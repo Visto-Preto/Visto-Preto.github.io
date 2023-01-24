@@ -1,1 +1,1 @@
-deb [trusted=yes arch=all] file:/data/data/com.termux/files/home/Apt-Repo/ termux extras
+deb [trusted=yes arch=all] https://visto-preto.github.io/ termux extras
